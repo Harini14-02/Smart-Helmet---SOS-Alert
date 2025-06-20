@@ -1,4 +1,4 @@
-# Smart-Helmet---SOS-Alert
+# Smart Helmet-SOS Alert
 This prototype is designed to detect accidents and alert emergency contacts. It uses an
 Arduino board, SIM800 GSM module, and GPS module to achieve the following:
 1. ️ Continuous Monitoring: Tracks accelerometer data from an MPU-6050 sensor.
