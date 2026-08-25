@@ -51,5 +51,7 @@ Road accidents often go unnoticed until it's too late — especially for solo ri
 ## 🏆 Recognition
 
 Secured **2nd place** at the Christ University project expo for innovation in real-time rider safety and emergency response systems.
+<img width="1124" height="796" alt="image" src="https://github.com/user-attachments/assets/de64406d-7b38-495e-a206-9c3e915c2d13" />
+
 
 ---
